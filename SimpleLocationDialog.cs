@@ -9,7 +9,7 @@ using Microsoft.IdentityModel.Protocols;
 using Microsoft.Bot.Builder.Location;
 using System.Configuration;
 
-namespace LocationBot123
+namespace SimpleLocationDialog
 {
     [Serializable]
     public class SimpleLocationDialog : IDialog<object>

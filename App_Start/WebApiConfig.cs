@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace LocationBot123
+namespace SimpleLocationBot
 {
     public static class WebApiConfig
     {

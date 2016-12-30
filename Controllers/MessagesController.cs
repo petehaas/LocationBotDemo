@@ -9,7 +9,7 @@ using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 using Microsoft.Bot.Builder.Dialogs;
 
-namespace LocationBot123
+namespace SimpleLocationDialog
 {
     [BotAuthentication]
     public class MessagesController : ApiController
